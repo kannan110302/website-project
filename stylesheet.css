@@ -528,6 +528,11 @@
     padding-top: 80px;
     margin-left: 115px;
 }
+.free{
+    width: 30%;
+    height: 200px;
+    border-style: solid;
+}
 @media screen and (max-width:425px) 
 {
     .navbar{
